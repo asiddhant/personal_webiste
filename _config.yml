@@ -1,5 +1,5 @@
 name: Aditya Siddhant
-description: Personal website
+description: Personal Website
 menu:
  - page: About
    url: /about
@@ -39,14 +39,14 @@ menu:
  - page: Accolades
    url: /accolades
 menu_external:
- - title: OleVik.me
-   url: "http://olevik.me/"
- - title: Research Gate
-   url: "https://www.researchgate.net/profile/Ole_Vik"
  - title: LinkedIn
-   url: "https://no.linkedin.com/in/olehhvik"
+   url: "https://www.linkedin.com/in/asiddhant/"
+ - title: Github
+   url: "https://www.github.com/asiddhant"
+ - title: Facebook
+   url: "https://www.facebook.com/"
  - title: Twitter
-   url: "https://twitter.com/olehhv"
+   url: "https://twitter.com/asiddhant1"
 mathjax: false
 markdown: kramdown
 encoding: utf-8
